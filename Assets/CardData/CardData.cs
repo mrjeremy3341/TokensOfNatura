@@ -12,5 +12,6 @@ public class CardData : ScriptableObject
     
     public int attack;
     public int health;
+    public int level;
     public int monarch;
 }
